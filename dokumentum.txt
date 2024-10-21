@@ -1,2 +1,2 @@
-név:
-osztály:
+név: Molnár Kristóf
+osztály: 9.F
